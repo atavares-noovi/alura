@@ -1,0 +1,1 @@
+#4 - Crie um dicionário e verifique se uma chave específica existe dentro desse dicionário.
